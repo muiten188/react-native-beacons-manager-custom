@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\project\tourism\node_modules\react-native-beacons-manager\android\src\main\assets"/><source path="D:\project\tourism\node_modules\react-native-beacons-manager\android\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="D:\project\tourism\node_modules\react-native-beacons-manager\android\src\release\assets"/></dataSet></merger>
